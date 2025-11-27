@@ -1,6 +1,6 @@
-scikit-learn
+streamlit
 pandas
 numpy
-streamlit
-matplotlib
-seaborn
+scikit-learn
+altair
+python-dateutil
